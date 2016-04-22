@@ -1,0 +1,2 @@
+# Sqmal
+Sqmal test repository
